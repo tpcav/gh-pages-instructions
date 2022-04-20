@@ -6,7 +6,9 @@ How to deploy gh-page website from console with requirements.
 
 ``npm init -y
 ``npm i gh-pages
-- have repository set up with files linked
+
+* have repository set up with files linked
+
 ``npm run deploy
 
 
